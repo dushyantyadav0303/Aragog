@@ -38,3 +38,13 @@ created_at: "2026-09-29"
 - 11.1v [LiPo batter](https://robu.in/product/orange-11-1v-1800mah-3s-30c-lipo-battery-pack-xt60-connector/) for power.
 ### For this project I'm building a custom PCB With all this component. 
   ### Alright so that's it for now. next we will proceed with Making Sch of PCB.
+
+
+
+# 2026-10-07          making Schematic
+## lapse: https://lapse.hackclub.com/timelapse/IrNZ7qAwwCne
+#### so i am start designing Schematic and i first selected the MCU and I'm using Espressif ESP-WROOM-32 and added the Programming circuit to programme it and 
+#### next i added servo driver and other things
+#### And was everything is done i polish it By adding labels.
+#### here you see the Schematic
+<img width="1061" height="551" alt="image" src="https://github.com/user-attachments/assets/59f0b04f-df51-4698-a37d-c1b4078b3b02" />
