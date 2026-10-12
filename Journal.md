@@ -39,7 +39,7 @@ created_at: "2026-09-29"
 ### For this project I'm building a custom PCB With all this component. 
   ### Alright so that's it for now. next we will proceed with Making Sch of PCB.
 
-
+---
 
 # 2026-10-07          making Schematic
 ## lapse: https://lapse.hackclub.com/timelapse/IrNZ7qAwwCne
@@ -48,3 +48,32 @@ created_at: "2026-09-29"
 #### And was everything is done i polish it By adding labels.
 #### here you see the Schematic
 <img width="1061" height="551" alt="image" src="https://github.com/user-attachments/assets/59f0b04f-df51-4698-a37d-c1b4078b3b02" />
+
+
+---
+
+# 2026-10-10          Routing PCB
+## lapse: https://lapse.hackclub.com/timelapse/8rM_ZCm9HDkg
+#### Yooo today, i Start Routing the PCB but wait before then i Assign the footprint to all the component.
+<img width="921" height="606" alt="image" src="https://github.com/user-attachments/assets/4eb4373c-08cf-46e6-aba3-6ca569382cbb" /> <br>
+#### Layout the component: means arrange all the Component on PCB and it good placement really matter cause.
+#### Then i start  Routing the PCB and Split the Copper pour into 2 net: 3v3 and 5v 
+<img width="606" height="544" alt="image" src="https://github.com/user-attachments/assets/92b742a0-443a-4a21-92b2-9840e572b81c" /> <br>
+#### here are the final routing 
+
+| TOP | Bottom |
+| :---: | :---: |
+| ![Image 1](https://github.com/user-attachments/assets/1c150960-e173-4809-a108-28410e300bd7) | ![Image 2](https://github.com/user-attachments/assets/73616033-38e0-4415-8ee0-fa9541a6b6bb) |
+
+#### at last i added the Halloween theame Silkscreen on top and spider logo expose copper (solder mask).
+#### which really looks so sick!!!!!!!!!!!!
+
+
+| TOP | Bottom |
+| :---: | :---: |
+| ![Image 1](https://github.com/user-attachments/assets/acdcddf8-3f5d-47ed-957c-84b2bd8a7eaf) | ![Image 2](https://github.com/user-attachments/assets/a20d4083-8f29-4fad-83f8-92aaa305bfe5) |
+
+
+#### ahhh!!! at the last min I remember to add mount holes.
+#### so i added 2x **M3** for mount the PCB on 3D printed spider model 
+<img width="657" height="514" alt="image" src="https://github.com/user-attachments/assets/12a25d5e-4c78-4a1f-953d-34716012bdc0" /> <br>
