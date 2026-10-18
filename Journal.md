@@ -4,6 +4,8 @@ description: "Aragog is scary spider robot that will chase. Aspire from Harry Po
 created_at: "2026-09-29"
 ---
 
+<img width="1015" height="680" alt="image" src="https://github.com/user-attachments/assets/13d99956-3f43-47f4-8b7b-ed0ef74374d1" />
+
 
 ## Hackatime link: https://hackatime.hackclub.com/@dushyantYadav0303/project/Aragog
 
