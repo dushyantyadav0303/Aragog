@@ -77,3 +77,12 @@ created_at: "2026-09-29"
 #### ahhh!!! at the last min I remember to add mount holes.
 #### so i added 2x **M3** for mount the PCB on 3D printed spider model 
 <img width="657" height="514" alt="image" src="https://github.com/user-attachments/assets/12a25d5e-4c78-4a1f-953d-34716012bdc0" /> <br>
+
+
+
+
+# 2026-10-18      Cad model 
+## lapse: https://lapse.hackclub.com/timelapse/leC36OzeO9i9
+### So today, I completed the Aragog cad model in fusion 360 and here you see the Final Cad model.
+<img width="1280" height="1024" alt="Aragog" src="https://github.com/user-attachments/assets/cd3d8c6c-ddb8-49c2-ae04-1375fbfb77d1" /> <br>
+<img width="1202" height="620" alt="image" src="https://github.com/user-attachments/assets/cd4d90e0-dcd6-422b-9f37-b45d840b79cb" /> 
