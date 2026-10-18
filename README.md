@@ -57,8 +57,7 @@
 
 Source : `src/PCB/Systematic/`  
 
-<img width=90% src="https://github.com/user-attachments/assets/59f0b04f-df51-4698-a37d-c1b4078b3b02" />
-
+<img width=90% src="https://github.com/user-attachments/assets/749b07a6-44d8-49a7-8c00-c3588140f6b9" />
 
 ## PCB on PCB
 
